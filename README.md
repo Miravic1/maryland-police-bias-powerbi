@@ -34,6 +34,16 @@ This Power BI project explores potential racial and gender biases in police beha
 ## 📸 Dashboard Preview
 ![Dashboard Screenshot](https://github.com/Miravic1/maryland-police-bias-powerbi/blob/main/MPB-Dashboard.png)
 
+## 📂 Additional Dashboards
+- `MarylandBias_Dashboard_V2.pbix`: Alternative layout exploring the same data with diff## 📸 Alternate Dashboard Preview
+
+## 📸 Alternate Dashboard Preview
+
+![Alternate Dashboard](MarylandBias_V2_Dashboard.png)
+
+
+
+
 ## 👩🏽‍💻 Author
 Miravic Opara 
 [LinkedIn](https://www.linkedin.com/in/miravic-opara-218a262b9)
